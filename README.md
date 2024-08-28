@@ -29,7 +29,6 @@ In [API_Popularity], data from [RSwAPI] and [BBwAPI] were pulled in. Then [RSvS]
 
 Final Product
 Our presentation is listed as [Song Popularity PowPoint] and our figures in [output_data]. Additionally you are reading the README.
-[INSERT STUFF THAT YALL ARE DOING TONIGHT]
 In the end, we were able to overwhelmingly disprove the null hypothesis. Each dataset had its own biases and did not provide consistent information.
 
 
